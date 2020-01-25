@@ -1,7 +1,5 @@
 # python-api-challenge
 
-Note: Completed the VacationPy challenge as well, but gmaps would not work on my machine.  Created a gmaps_demo jupyternb as well per recommendation in internet.  That did not work either.
-
 ----
 ## Key Trends Observed
 
